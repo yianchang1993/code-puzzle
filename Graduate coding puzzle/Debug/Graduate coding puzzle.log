@@ -1,0 +1,14 @@
+﻿  Graduate coding puzzple.c
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(11): warning C4013: 'strtok' 未定義; 假設 extern 傳回整數
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(11): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(12): warning C4013: 'strcmp' 未定義; 假設 extern 傳回整數
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(16): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(27): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(38): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(79): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(80): warning C4047: '函式': 'char **' 與 'char [20]' 間接取值的層級不同
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(80): warning C4024: 'initialze': 型式和實質參數 1 不同的類型
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(154): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(157): warning C4047: '函式': 'char **' 與 'char [20]' 間接取值的層級不同
+c:\users\andy\source\repos\graduate coding puzzle\graduate coding puzzle\graduate coding puzzple.c(157): warning C4024: 'initialze': 型式和實質參數 1 不同的類型
+  Graduate coding puzzle.vcxproj -> C:\Users\Andy\source\repos\Graduate coding puzzle\Debug\Graduate coding puzzle.exe
